@@ -33,6 +33,7 @@ function App() {
       <button>Enviar</button>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid magni rem iste? Eius voluptatum alias iste minima sed neque quod labore animi amet distinctio laborum, accusantium a quo ea quibusdam?</p>
       <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut molestiae asperiores quis nemo fuga ipsum autem, veritatis iure quisquam ipsam laborum animi quod neque exercitationem rem incidunt quae, sed deleniti?</h3>
+      <h1>Hola esta es una prueba</h1>
     </>
   )
 }
